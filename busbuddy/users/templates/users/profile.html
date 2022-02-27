@@ -1,0 +1,16 @@
+{% extends "website/base.html" %}
+
+{% load static %}
+      <img src="{% static '/assets/background.png' %}" style="width: 100vw;height: 100vh;">
+
+{% block content %}
+     <div class="content-section">
+      <div class="media">
+        <div class="media-body">
+            <h2 class="account-heading"><b>{{ user.username }}</b></h2>
+          <h4 class="text-secondary" align="center">Email: {{ user.email }}</h4>
+        </div>
+      </div>
+      <!-- FORM HERE -->
+    </div>
+{% endblock content %}

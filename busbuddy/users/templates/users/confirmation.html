@@ -1,0 +1,24 @@
+{% extends "website/base.html" %}
+
+{% load static %}
+      <img src="{% static '/assets/background.png' %}" style="width: 100vw;height: 100vh;">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+
+{% block content %}
+<div class="wrapper">
+
+      <div class = "title">
+            <legend class="border-bottom mb-4">Confirmation</legend>
+      </div>
+      <p style="font-size:12pt;" >
+            Thank you for registering!
+      </p>
+
+
+      <div class="border-top pt-3">
+            <small style="font-size:11pt;" class="text-muted">
+                  Please proceed to <a class="ml-1" href="{% url 'login' %}">Log In</a>
+            </small>
+      </div>
+</div>
+{% endblock content %}

@@ -1,0 +1,31 @@
+{% extends "website/base.html" %}
+
+{% block content %}
+    {% load static %}
+
+<style>
+body{
+background-image: url('website/static/assets/background.png');
+height: 120vh;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+}
+</style>
+<form method="POST">
+    {% csrf_token %}
+    <div class="centered">
+        <div class="container"
+        <h1 style="font-size:8vw;">Welcome!</h1>
+        <p style="font-size:2vw;">
+          New York Buses is set to release our all-new website, allowing commuters to live-track their train, doing away with the stress of possibly missing their ride.
+            <br>Using MTA's API, we have built a comprehensive website for the people of New York City to stay up to date with public transit.
+            <br>Using our website, commuters will never have to miss another train or bus again! <br>
+            <br> <a class="btn btn-primary btn-lg" href="{% url 'map' %}" role="button">Go to Map</a>
+        </p>
+    </div>
+    </div>
+
+{% endblock content %}
+

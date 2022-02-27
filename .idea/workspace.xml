@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="711f17b0-08e7-4191-aabf-59e8daa5f2a6" name="Default Changelist" comment="added improvements to map.html UX">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/busbuddy/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/busbuddy/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/busbuddy/users/templates/users/profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/busbuddy/users/templates/users/profile.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/busbuddy/website/templates/website/history.html" beforeDir="false" afterPath="$PROJECT_DIR$/busbuddy/website/templates/website/history.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/busbuddy/website/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/busbuddy/website/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="django" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jfBkugoA2glR3C3hhVNzdhaCVz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="711f17b0-08e7-4191-aabf-59e8daa5f2a6" name="Default Changelist" comment="" />
+      <created>1613617161370</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613617161370</updated>
+    </task>
+    <task id="LOCAL-00001" summary="added improvements to map.html UX">
+      <created>1614642424191</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614642424191</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.css" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.py" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="checkout to django issue" />
+    <MESSAGE value="added improvements to map.html UX" />
+    <option name="LAST_COMMIT_MESSAGE" value="added improvements to map.html UX" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="321" y="181" key="Vcs.Push.Dialog.v2" timestamp="1614642450842">
+      <screen x="0" y="25" width="1440" height="839" />
+    </state>
+    <state x="321" y="181" key="Vcs.Push.Dialog.v2/0.25.1440.839@0.25.1440.839" timestamp="1614642450842" />
+    <state x="521" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1614889938004">
+      <screen x="0" y="25" width="1440" height="839" />
+    </state>
+    <state x="521" y="362" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.25.1440.839@0.25.1440.839" timestamp="1614889938004" />
+    <state x="467" y="161" key="git4idea.branch.GitSmartOperationDialog" timestamp="1614640644749">
+      <screen x="0" y="25" width="1440" height="839" />
+    </state>
+    <state x="467" y="161" key="git4idea.branch.GitSmartOperationDialog/0.25.1440.839@0.25.1440.839" timestamp="1614640644748" />
+    <state x="386" y="188" width="670" height="378" key="search.everywhere.popup" timestamp="1614640349039">
+      <screen x="0" y="25" width="1440" height="839" />
+    </state>
+    <state x="386" y="188" width="670" height="378" key="search.everywhere.popup/0.25.1440.839@0.25.1440.839" timestamp="1614640349039" />
+  </component>
+</project>
